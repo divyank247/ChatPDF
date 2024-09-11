@@ -1,4 +1,4 @@
-# Chat with Multiple PDFs
+# Chat with Multiple PDFs 📚
 
 ## Overview
 
