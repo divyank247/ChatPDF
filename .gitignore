@@ -1,0 +1,30 @@
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore environment variables
+.env
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and cache
+*.log
+*.cache
+
+# Ignore dependencies (if using pip)
+*.egg-info/
+dist/
+build/
+
+# Ignore your IDE/editor specific settings
+.vscode/
+.idea/
